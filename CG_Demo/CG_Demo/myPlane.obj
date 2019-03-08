@@ -1,0 +1,14 @@
+# Paola, Norberto, Luis, and Carlos.
+
+mtllib myMtl.mtl
+
+#Geometry:
+v 
+
+#Normals:
+vn 0 1 0
+
+#TOPOLOGY f vi/ti/ni vi/ti/ni vi/ti/ni
+
+usemtl cube
+
