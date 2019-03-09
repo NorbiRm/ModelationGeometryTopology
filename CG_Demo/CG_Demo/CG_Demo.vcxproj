@@ -149,9 +149,11 @@
   <ItemGroup>
     <ClCompile Include="Plane.cpp" />
     <ClCompile Include="source\CG_Demo.cpp" />
+    <ClCompile Include="Vertex.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header\Plane.h" />
+    <ClInclude Include="header\Vertex.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

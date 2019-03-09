@@ -1,3 +1,4 @@
 ﻿  Plane.cpp
-d:\documents\itesm\8vo\gráficas computacionales\nueva carpeta\cg_demo\cg_demo\plane.cpp(70): warning C4129: '#': secuencia de escape de carácter no reconocida
-  CG_Demo.vcxproj -> D:\Documents\ITESM\8vo\Gráficas Computacionales\Nueva carpeta\CG_Demo\Debug\CG_Demo.exe
+d:\documents\itesm\8vo\gráficas computacionales\modelationgeometrytopology\cg_demo\cg_demo\plane.cpp(80): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documents\itesm\8vo\gráficas computacionales\modelationgeometrytopology\cg_demo\cg_demo\plane.cpp(81): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  CG_Demo.vcxproj -> D:\Documents\ITESM\8vo\Gráficas Computacionales\ModelationGeometryTopology\CG_Demo\Debug\CG_Demo.exe

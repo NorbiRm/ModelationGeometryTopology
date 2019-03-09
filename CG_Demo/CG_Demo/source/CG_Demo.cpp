@@ -28,6 +28,7 @@
 #endif
 
 #include <stdio.h>
+#include <iostream>
 #include <math.h>
 #include "Plane.h"
 
@@ -75,6 +76,18 @@ void reshape(int x, int y)											// Called when the window geometry changes.
 
 int main(int argc, char* argv[])
 {
-	Plane* plano = new Plane();
+	float width, heigth;
+	float vDivs,hDivs;
+	cout << "width:";
+	cin >> width;
+	cout << "height:";
+	cin >> heigth;
+	cout << "vDivs:";
+	cin >> vDivs;
+	cout << "hDivs:";
+	cin >> hDivs;
+
+
+	Plane* plano = new Plane(width,heigth,vDivs,hDivs);
 	plano->createObj();
 }
